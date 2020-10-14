@@ -1,3 +1,5 @@
+<img alt="Why so serious ??" src="https://media.giphy.com/media/mn6wUa3WyMAq4/source.gif" width="100%">
+
 ### Hi there 👋
 
 <!--
