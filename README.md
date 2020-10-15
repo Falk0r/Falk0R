@@ -1,4 +1,4 @@
-<img alt="Why so serious ??" src="https://media.giphy.com/media/mn6wUa3WyMAq4/source.gif" width="100%">
+<img alt="Why so serious ??" src="https://www.brain.fm/assets/img/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif" width="100%">
 
 ### Hi there 👋
 
