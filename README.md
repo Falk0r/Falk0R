@@ -1,6 +1,7 @@
 <img alt="Why so serious ??" src="https://www.brain.fm/assets/img/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif" width="100%">
-
+<p align="center">
 Welcome to my Github 👋
+</p>
 
 <!--
 **Falk0r/Falk0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
