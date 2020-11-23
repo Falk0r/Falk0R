@@ -2,6 +2,7 @@
 <p align="center">
 👋 Welcome to my Github 👋
 </p>
+<p align="center">I'm a french web developer (soon 😅), you'll find here many of my projects</p>
 
 <!--
 **Falk0r/Falk0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
