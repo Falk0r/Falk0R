@@ -1,4 +1,6 @@
-<img alt="Why so serious ??" src="https://www.brain.fm/assets/img/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif" width="100%">
+<p align="center">
+<img alt="Why so serious ??" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" width="40%">
+</p>
 <p align="center">
 👋 Welcome to my Github 👋
 </p>
